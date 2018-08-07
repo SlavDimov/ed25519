@@ -1,3 +1,6 @@
+Forked from:
+https://github.com/orlp/ed25519
+
 Ed25519
 =======
 
